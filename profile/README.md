@@ -9,7 +9,8 @@
 - [wangge-skills](https://github.com/wangge-ai/wangge-skills)：全部开源 Skill 的总索引与安装入口。
 - [旺哥的公众号文章](https://github.com/wangge-dev/wangge-articles)：AI 工具、电商数据分析与真实工作流实战文章。
 - [旺哥的个人主页](https://github.com/wangge-dev)：项目背景、实践方向与最新进展。
-- [旺哥 AI 电商实战群](https://t2vq6a99kv.feishuapp.com/app/app_17a7exe7wzv/)：Skill 分享、案例和社群入口。
+- [旺哥 AI 电商实战群](https://t2vq6a99kv.feishuapp.com/app/app_17a7exe7wzv/)：案例交流和社群入口。
+- [飞书 Skill 资料库](https://my.feishu.cn/wiki/DJMRwTyK2ifkkmk5FHPcZeP3nwc?table=tbl1SvuqTb3Vmeq4&view=vew95iuRuH)：文章配套 Skill、工作流、教程和课件。
 
 <p align="center">
   <a href="https://t2vq6a99kv.feishuapp.com/app/app_17a7exe7wzv/">
