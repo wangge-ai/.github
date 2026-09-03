@@ -10,10 +10,15 @@
 - [旺哥的个人主页](https://github.com/wangge-dev)：项目背景、实践方向与最新进展。
 - [旺哥 AI 电商实战群](https://t2vq6a99kv.feishuapp.com/app/app_17a7exe7wzv/)：Skill 分享、案例和社群入口。
 
+<p align="center">
+  <a href="https://t2vq6a99kv.feishuapp.com/app/app_17a7exe7wzv/">
+    <img src="assets/feishu-community-qr.png" width="220" alt="扫码进入旺哥 AI 电商实战群">
+  </a>
+</p>
+
 ## 开源原则
 
 - 来源与许可证清楚，第三方内容保留归属说明。
 - Skill 使用标准 `SKILL.md` 结构，说明依赖、能力和边界。
 - 示例尽量使用脱敏或模拟数据，不公开账号、Cookie、密钥和业务隐私。
 - 成熟项目独立成库，轻量工作流由 `wangge-skills` 统一索引。
-
